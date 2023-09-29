@@ -114,6 +114,7 @@ class _HomeState extends State<Home> {
                       decoration: BoxDecoration(
                           color: const Color.fromARGB(255, 47, 125, 121),
                           borderRadius: BorderRadius.circular(15)),
+                    
                     ),
                     onTap: () {
                       Navigator.push(
